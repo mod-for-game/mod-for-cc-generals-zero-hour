@@ -13,3 +13,6 @@ EA.Games.Multi.Keygen算号器打开并点击change key就可以安装key。
 3.之前打开的版本或者mod版本仍运行在后台中。
 
 使用任务管理器删除后台运行的游戏
+# 调整分辨率
+C&C文件夹里面Opens.ini文件可以手动修改分辨率
+https://github.com/fengmao31/mod-for-cc-generals-zero-hour/blob/master/Command%20and%20Conquer%20Generals%20Zero%20Hour%20Data/Options.INI
