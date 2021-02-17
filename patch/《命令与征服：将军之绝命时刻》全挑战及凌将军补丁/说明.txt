@@ -1,0 +1,7 @@
+凌将军遭遇战AI补丁，修正了哪些我不多说了具体请访问我的空间lysyker.qzone.qq.com   如果用过我以前的补丁的请删除再用，安装方法如下
+此补丁需替换原Scripts文件夹。
+将Boss-AI-lysyker.big   放在绝命时刻根目录下（不需要自己解压），将Scripts文件夹放置在绝命时刻/DATA文件夹下，复制之前请做好备份。
+如有BUG请联系我lysyker-1@163.com,如要转载请注明作者及出处。
+                                                                 ——BY LYSYKER
+                                                                 zh.818-818.com
+                                                                                                                                  
