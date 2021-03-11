@@ -1,16 +1,16 @@
 # windows10无法运行原因
 
-1.我的文档配置文档没有
+1. 我的文档配置文档没有
 
 因为xp和windows7的我的文档路径和windows10并不同，所以游戏安装时候并没有创建默认的C&C配置文件。
 
 下载此项目中C&C文件放入我的文档即可。
 
-2.key序列号
+2. key序列号
 
 EA.Games.Multi.Keygen算号器打开并点击change key就可以安装key。
 
-3.之前打开的版本或者mod版本仍运行在后台中。
+3. 之前打开的版本或者mod版本仍运行在后台中。
 
 使用任务管理器删除后台运行的游戏
 # 调整分辨率
@@ -30,7 +30,7 @@ MOD下载社区。命令与征服：将军长年在榜。
 
 ## [cncHD](http://cnchd.weebly.com/)
 
-攻略与对战
+攻略与对战的视频
 
 ## [C＆C Labs](http://www.cnclabs.com/)
 
@@ -39,7 +39,7 @@ MOD下载社区。命令与征服：将军长年在榜。
 # 开源项目
 就像开源版本的红警1（[OpenRA](https://github.com/OpenRA/OpenRA)），寒霜引擎2的游戏也有很多人试图使用Opengl重制。
 
-## [OpenSAGE](http://www.cnclabs.com/)
+## [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE)
 C#版本，我很看好这个项目，希望能依托它完成深度强化学习的ai完成战役和挑战。
 
 ## [Thyme](https://github.com/TheAssemblyArmada/Thyme)
