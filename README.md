@@ -33,3 +33,12 @@ C&C文件夹里面Opens.ini文件可以手动修改分辨率。
 ## [C＆C Labs](http://www.cnclabs.com/)
 
 综合论坛，有一些工具包
+
+# 开源项目
+就像开源版本的红警1（[OpenRA](https://github.com/OpenRA/OpenRA)），寒霜引擎2的游戏也有很多人试图使用Opengl重制。
+
+## [OpenSAGE](http://www.cnclabs.com/)
+C#版本，我很看好这个项目，希望能依托它完成深度强化学习的ai完成战役和挑战。
+
+## [Thyme](https://github.com/TheAssemblyArmada/Thyme)
+C++版本
