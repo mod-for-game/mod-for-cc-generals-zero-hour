@@ -13,6 +13,9 @@ EA.Games.Multi.Keygen算号器打开并点击change key就可以安装key。
 3. 之前打开的版本或者mod版本仍运行在后台中。
 
 使用任务管理器删除后台运行的游戏
+
+# 卸载出错
+mod启动器更改了一部分文件后，因为游戏版本问题，没有还原成功，所以需要重新安装一遍，在卸载就可以消除游戏在卸载和添加管理器中的残留。
 # 调整分辨率
 C&C文件夹里面Opens.ini文件可以手动修改分辨率。
 
@@ -39,8 +42,13 @@ MOD下载社区。命令与征服：将军长年在榜。
 # 开源项目
 就像开源版本的红警1（[OpenRA](https://github.com/OpenRA/OpenRA)），寒霜引擎2的游戏也有很多人试图使用Opengl重制。
 
-## [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE)
-C#版本，我很看好这个项目，希望能依托它完成深度强化学习的ai完成战役和挑战。
+SAGE简介 https://en.wikipedia.org/wiki/SAGE_(game_engine)
 
+## [OpenSAGE](https://github.com/OpenSAGE)
+C# core版本，我很看好这个项目，希望能依托它完成深度强化学习的ai完成战役和挑战。
+
+这个项目很难看懂和参与，另外virtual studio在载入NuGet包的时候有些源是无法下载的，需要手动删除。详情参见Guide for OpenSAGE（虽然里面现在啥也没有）。
+
+virtual studio不支持代理，所以在clone项目和下载NuGet包的时候会非常缓慢。vscode编写C#我还没有尝试过，NuGet包情况未知。
 ## [Thyme](https://github.com/TheAssemblyArmada/Thyme)
 C++版本
