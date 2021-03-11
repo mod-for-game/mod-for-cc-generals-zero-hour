@@ -17,6 +17,8 @@ EA.Games.Multi.Keygen算号器打开并点击change key就可以安装key。
 C&C文件夹里面Opens.ini文件可以手动修改分辨率。
 
 # 论坛
+## [MODDB](https://www.moddb.com/games/cc-generals-zero-hour)
+MOD下载社区。命令与征服：将军长年在榜。
 
 ## [塞特亮](https://github.com/fengmao31/mod-for-cc-generals-zero-hour/blob/master/Command%20and%20Conquer%20Generals%20Zero%20Hour%20Data/Options.INI)
 
