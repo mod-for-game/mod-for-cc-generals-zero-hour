@@ -39,6 +39,10 @@ MOD下载社区。命令与征服：将军长年在榜。
 
 综合论坛，有一些工具包
 
+## [cnc-online](https://cnc-online.net/zh-hans/) 
+
+国外的联机平台。[gentool](http://www.gentool.net/)版本管理和反作弊工具。注意此平台和国内1.8中文版本不兼容。
+
 # 开源项目
 就像开源版本的红警1（[OpenRA](https://github.com/OpenRA/OpenRA)），寒霜引擎2的游戏也有很多人试图使用Opengl重制。
 
