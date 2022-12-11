@@ -1,15 +1,19 @@
 # china command general
 
+引用：
+
 将军技能和步兵贴图：易拉罐自定义将军
 
 参考：
 
 易拉罐自定义将军
 赛大参考手册
+
 # 环境问题
+
 ## windows10无法运行原因
 
-1. 我的文档配置文档没有
+1. 我的文档中命令与征服配置文件缺失
 
 因为xp和windows7的我的文档路径和windows10并不同，所以游戏安装时候并没有创建默认的C&C配置文件。
 
@@ -19,9 +23,9 @@
 
 EA.Games.Multi.Keygen算号器打开并点击change key就可以安装key。
 
-3. 之前打开的版本或者mod版本仍运行在后台中。
+3. 后台中仍在运行的版本或者mod版本
 
-使用任务管理器删除后台运行的游戏
+使用任务管理器删除后台运行的游戏。
 
 ## 卸载出错
 mod启动器更改了一部分文件后，因为游戏版本问题，没有还原成功，所以需要重新安装一遍，在卸载就可以消除游戏在卸载和添加管理器中的残留。
@@ -30,7 +34,7 @@ C&C文件夹里面Opens.ini文件可以手动修改分辨率。
 
 # 论坛
 ## [MODDB](https://www.moddb.com/games/cc-generals-zero-hour)
-MOD下载社区。命令与征服：将军长年在榜。
+MOD下载社区。命令与征服：将军。
 
 ## [塞特亮](https://github.com/fengmao31/mod-for-cc-generals-zero-hour/blob/master/Command%20and%20Conquer%20Generals%20Zero%20Hour%20Data/Options.INI)
 
